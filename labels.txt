@@ -1,0 +1,3 @@
+0 ps 5 controller
+1 bluetooth speaker
+2 headphone
